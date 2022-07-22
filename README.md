@@ -20,3 +20,6 @@ tiny(1337);
 0.0.4 main upload and target
 0.0.5 patch fix and update to npm 
 
+//Major
+1.0.0 updated critical dependency
+added npx
