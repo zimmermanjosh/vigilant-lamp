@@ -12,6 +12,7 @@
         "package"
     ],
     "dependencies": {
+        "cowsay": "^1.5.0",
         "npx": "^3.0.0"
     }
 }
