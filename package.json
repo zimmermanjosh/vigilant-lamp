@@ -1,0 +1,14 @@
+{
+    "name" : "@joshua.zimmerman/tiny",
+    "version" : "0.0.4",
+    "description": "remove all spaces from string",
+    "license": "UNLICENSED",
+    "repository": "https://github.com/zimmermanjosh/vigilant-lamp", 
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "vigilant-lamp",
+        "package"
+    ]
+}
