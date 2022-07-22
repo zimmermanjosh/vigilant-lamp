@@ -10,5 +10,8 @@
         "npm",
         "vigilant-lamp",
         "package"
-    ]
+    ],
+    "dependencies": {
+        "npx": "^3.0.0"
+    }
 }
